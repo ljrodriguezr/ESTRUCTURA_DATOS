@@ -1,0 +1,15 @@
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+c:\ESTRUCTURA_DATOS\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll
