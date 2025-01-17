@@ -1,0 +1,6 @@
+public static class Semana3{
+
+    oublic static void Run(){
+        //Pegar aqui el codigo
+    }
+}
