@@ -1,13 +1,13 @@
 public static class ejercicio1{
-
     public static void Run(){
 
          Console.WriteLine("ejercicio1");
          Console.WriteLine("==============");
 
         //Pegar aqui el codigo
-    static void Main()
-    {
+
+    //static void Main()
+    //{
         // Solicitar al usuario que ingrese una palabra
         Console.Write("Introduce una palabra: ");
         string palabra = Console.ReadLine();
@@ -22,8 +22,7 @@ public static class ejercicio1{
             Console.WriteLine($"La palabra '{palabra}' no es un palíndromo.");
         }
     }
-
-    // Función que verifica si una palabra es un palíndromo
+     // Función que verifica si una palabra es un palíndromo
     static bool EsPalindromo(string palabra)
     {
         // Normalizar la palabra: quitar espacios y convertir a minúsculas
@@ -35,7 +34,9 @@ public static class ejercicio1{
         string palabraInvertida = new string(arrayPalabra);
 
         // Comparar la palabra normalizada con la invertida
-        return palabraNormalizada == palabraInvertida;
+       return palabraNormalizada == palabraInvertida;
     }
+
+   
 }
-    }
+    
