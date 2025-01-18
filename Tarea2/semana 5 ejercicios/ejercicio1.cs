@@ -11,7 +11,6 @@ public static class ejercicio1{
         // Solicitar al usuario que ingrese una palabra
         Console.Write("Introduce una palabra: ");
         string palabra = Console.ReadLine();
-
         // Llamar a la función para verificar si es un palíndromo
         if (EsPalindromo(palabra))
         {
