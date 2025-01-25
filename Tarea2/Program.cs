@@ -4,7 +4,7 @@
 //ejercicio3.Run();
 //ejercicio4.Run();
 //ejercicio5.Run();}
-ListasEnlazadas.Run();
+//ListasEnlazadas.Run();
 
 
 
