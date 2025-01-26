@@ -3,8 +3,9 @@
 //ejercicio2.Run();
 //ejercicio3.Run();
 //ejercicio4.Run();
-//ejercicio5.Run();}
+//ejercicio5.Run();
 //ListasEnlazadas.Run();
+manejodelistas.Run();
 
 
 
