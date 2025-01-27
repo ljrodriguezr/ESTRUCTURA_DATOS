@@ -5,7 +5,8 @@
 //ejercicio4.Run();
 //ejercicio5.Run();
 //ListasEnlazadas.Run();
-manejodelistas.Run();
+//manejodelistas.Run();
+Pilas.Run();
 
 
 
